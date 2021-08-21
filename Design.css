@@ -1,0 +1,44 @@
+
+.s1 {
+
+	background-color: green;
+	color: white;
+
+}
+
+.s2 {
+
+	background-color: grey;
+	text-align: center;
+	text-decoration-line: underline;
+	text-decoration-style: inherit;
+    font-size: xx-large;
+    font-family: cursive;
+	color: white;
+
+}
+
+.s3 {
+
+	background-color: black;
+	font-style: italic;
+	text-align: center;
+	color: white;
+
+}
+
+.tab { 
+	
+	margin-left: 40px; 
+
+}
+
+.desc {
+
+	margin-left: 40px;
+
+}
+
+img {
+  border: 5px solid #555;
+}
